@@ -1,5 +1,4 @@
 gdown
-unrar
 voila
 fastai>=2
 pillow<7
